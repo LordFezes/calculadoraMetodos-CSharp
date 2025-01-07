@@ -1,0 +1,15 @@
+C:\Users\Walter Zavala\Documents\TreinoC#\calculadorametodos\bin\Debug\net9.0\calculadoraMetodos.exe
+C:\Users\Walter Zavala\Documents\TreinoC#\calculadorametodos\bin\Debug\net9.0\calculadoraMetodos.deps.json
+C:\Users\Walter Zavala\Documents\TreinoC#\calculadorametodos\bin\Debug\net9.0\calculadoraMetodos.runtimeconfig.json
+C:\Users\Walter Zavala\Documents\TreinoC#\calculadorametodos\bin\Debug\net9.0\calculadoraMetodos.dll
+C:\Users\Walter Zavala\Documents\TreinoC#\calculadorametodos\bin\Debug\net9.0\calculadoraMetodos.pdb
+C:\Users\Walter Zavala\Documents\TreinoC#\calculadorametodos\obj\Debug\net9.0\calculadoraMetodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Walter Zavala\Documents\TreinoC#\calculadorametodos\obj\Debug\net9.0\calculadoraMetodos.AssemblyInfoInputs.cache
+C:\Users\Walter Zavala\Documents\TreinoC#\calculadorametodos\obj\Debug\net9.0\calculadoraMetodos.AssemblyInfo.cs
+C:\Users\Walter Zavala\Documents\TreinoC#\calculadorametodos\obj\Debug\net9.0\calculadoraMetodos.csproj.CoreCompileInputs.cache
+C:\Users\Walter Zavala\Documents\TreinoC#\calculadorametodos\obj\Debug\net9.0\calculadoraMetodos.sourcelink.json
+C:\Users\Walter Zavala\Documents\TreinoC#\calculadorametodos\obj\Debug\net9.0\calculadoraMetodos.dll
+C:\Users\Walter Zavala\Documents\TreinoC#\calculadorametodos\obj\Debug\net9.0\refint\calculadoraMetodos.dll
+C:\Users\Walter Zavala\Documents\TreinoC#\calculadorametodos\obj\Debug\net9.0\calculadoraMetodos.pdb
+C:\Users\Walter Zavala\Documents\TreinoC#\calculadorametodos\obj\Debug\net9.0\calculadoraMetodos.genruntimeconfig.cache
+C:\Users\Walter Zavala\Documents\TreinoC#\calculadorametodos\obj\Debug\net9.0\ref\calculadoraMetodos.dll
